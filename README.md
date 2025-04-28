@@ -1,3 +1,5 @@
+![2](https://github.com/user-attachments/assets/a9d4e1d5-9f99-499b-860b-0fdbc6f7cf6e)
+
 Overview:
 Developed a comprehensive, fully automated Point of Sale (POS) system specifically designed for small and medium-sized restaurants. Built entirely in Microsoft Excel using VBA (Visual Basic for Applications), this system provides all essential functionalities of a professional POS solution without the burden of recurring subscription fees.
 
